@@ -9,10 +9,6 @@ La API de Envío de Correos Electrónicos con ASP.NET y MailKit es una aplicaci�
 1. Clona este repositorio en tu máquina local.
 2. Abre el proyecto en Visual Studio o tu entorno de desarrollo preferido.
 3. Configura tus credenciales de Gmail en el archivo appsettings.json.
-    "Email": {
-    "Host": "smtp.gmail.com",
-    "Port": "587",
-    "UserName": "--------Correo Electronico el cual enviara los mensajes-----------",
-    "Password": "------contraseña de aplicacion--------"
-  },
+    ![image](https://github.com/DeveloMinx/sendEmail/assets/123894512/6528532f-cd57-48f1-99a5-09475cc78167)
+
 4. Ejecuta el proyecto y la API estará lista para su uso.
